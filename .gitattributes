@@ -1,0 +1,9 @@
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.bat text eol=crlf
+.cmd text eol=crlf
+*.png binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+* text=auto
